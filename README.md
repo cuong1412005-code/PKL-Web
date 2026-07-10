@@ -1,4 +1,5 @@
-<img width="1919" height="950" alt="image" src="https://github.com/user-attachments/assets/e3ef1d3d-6d9d-47c8-8073-62b5933d4b62" />
+<img width="1919" height="949" alt="image" src="https://github.com/user-attachments/assets/6023a2e7-d879-4d99-a673-2c240c4100af" />
+
 
 # Phùng Khánh Linh Artist Website
 
